@@ -19,7 +19,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white" width="600" height="300"/>
 </div>
 
 ---
