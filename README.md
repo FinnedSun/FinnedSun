@@ -9,7 +9,7 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="https://www.instagram.com/rayhan_agung_m/">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=FinnedSundew&style=flat-square&color=blue" alt=""/>
@@ -19,7 +19,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
